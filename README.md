@@ -9,7 +9,7 @@ Install Requirements(Linux)
 
 Run commands one by one
 --------------------------------------
->> git clone https://github.com/Legend420Hacker/Facebook-BruteForce
+>> git clone https://github.com/Legend420Hacker/Facebookbruteforce/tree/Master
 
 >> cd Facebook-BruteForce
 
